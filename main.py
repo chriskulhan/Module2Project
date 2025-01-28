@@ -5,7 +5,7 @@
 def welcome_message():
     """Display a welcome message for the donut shop."""
     print("🍩 Welcome to North Loop Provisions!🍩")
-    print("Crafting artisinal donuts in Minneapolis's North Loop")
+    print("Crafting artisanal donuts in Minneapolis's North Loop")
     print("---------------------------------------")
 
 def show_menu():
