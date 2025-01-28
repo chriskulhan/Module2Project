@@ -2,7 +2,7 @@
 
 #This code will print the menu of a donut shop with all the prices. 
 
-#Example printout: 
+#Example output: 
 
 🍩 Welcome to North Loop Provisions!🍩
 Crafting artisanal donuts in Minneapolis's North Loop
